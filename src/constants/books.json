@@ -1,0 +1,60 @@
+[
+  {
+    "id": 0,
+    "name": "Katerina",
+    "publishedYear": 2021,
+    "author": "Taras Shevchenko",
+    "isActive":true
+  },
+  {
+    "id": 1,
+    "name": "The Whispering Woods",
+    "publishedYear": 2010,
+    "author": "Ivan Franko",
+    "isActive":true
+  },
+  {
+    "id": 2,
+    "name": "The Last Summer",
+    "publishedYear": 2011,
+    "author": "Alexander Johnson",
+    "isActive":true
+  },
+  {
+    "id": 3,
+    "name": "The Secret Garden",
+    "publishedYear": 1997,
+    "author": "Michael Harris",
+    "isActive":true
+  },
+  {
+    "id": 4,
+    "name": "The Secret Garden",
+    "publishedYear": 1907,
+    "author": "Ethan Lee",
+    "isActive":true
+  },
+  {
+    "id": 5,
+    "name": "The Nightingale's Song",
+    "publishedYear": 1978,
+    "author": "Lauren Taylor",
+    "isActive":true
+  },
+  {
+    "id": 6,
+    "name": "The Lost Treasure",
+    "publishedYear": 2004,
+    "author": "Christopher Baker",
+    "isActive":true
+  },
+  {
+    "id": 7,
+    "name": "The Forgotten Kingdom",
+    "publishedYear": 1991,
+    "author": "Olivia Parker",
+    "isActive":true
+  }
+
+
+]
